@@ -1,0 +1,24 @@
+Bitácora del Proyecto "Calculadora Python"
+
+1. Nombre del Proyecto:
+   - El proyecto se llama "Calculadora Python".
+
+2. Descripción:
+   - Este es un proyecto simple realizado en Python, que simula una calculadora básica con operaciones como suma, resta, multiplicación y división.
+
+3. Pasos para la Creación del Proyecto:
+   - Paso 1: Inicialicé el repositorio en mi computadora local con el comando `git init`.
+   - Paso 2: Creé el archivo `calculadora.py` donde implementé la funcionalidad de la calculadora.
+   - Paso 3: Añadí los archivos al repositorio con el comando `git add calculadora.py`.
+   - Paso 4: Realicé el primer commit con el mensaje: "Primer commit con la calculadora básica".
+   - Paso 5: Creé el repositorio en GitHub con el nombre "calculadora-python".
+   - Paso 6: Subí el proyecto a GitHub con el comando `git push --set-upstream origin master`.
+
+4. Tecnologías Utilizadas:
+   - Python 3.x.
+
+5. Enlace al Repositorio:
+   - El proyecto está disponible en GitHub en la siguiente URL: [https://github.com/MelanyeLainez/calculadora-python]
+   
+6. Comentario Final:
+   - Este proyecto es un ejemplo simple para demostrar la creación de un repositorio en Git y su integración con GitHub. Se utilizó Python para realizar la funcionalidad y GitHub para almacenar y compartir el código.
